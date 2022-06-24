@@ -4,14 +4,17 @@
 </p>
 
 # 📁 Documentação 
-    - fIGMA
+[<h3>Layout of your project (Figma)</h3>](https://www.figma.com/file/h9v5Sbn61fVvpxQuDsYu4b/Automi?node-id=0%3A1)
+    
+## Screen
+    
     
 ## ❕ The idea
 
 
 ## 🖥️ Functionalities
 
-##quick description
+## quick description
 
 ## 👋 Authors
 [<h3>lucas Barbosa de Oliveira</h3>](https://github.com/LucasBrbs)
